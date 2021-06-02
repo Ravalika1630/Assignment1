@@ -132,14 +132,14 @@ columns=fullflexible
 \renewcommand{\thetable}{\theenumi}
 Download all python codes from 
 \begin{lstlisting}
-https://github.com/Ravalika1630/Assignment1/blob/main/assignment1%20(1).py
+https://github.com/Ravalika1630/Assignment1/blob/main/assignment1.py
 \end{lstlisting}
 %
 and latex-tikz codes from 
 %
 \begin{lstlisting}
 
-https://github.com/Ravalika1630/Assignment1/blob/main/main.txt
+https://github.com/Ravalika1630/Assignment1/blob/main/main.text
 \end{lstlisting}
 %
 \section{Question No. 2.12}
